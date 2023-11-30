@@ -1,8 +1,8 @@
 {
-  "name": "parcel-project-template",
+  "name": "m3riadoc.github.io",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://BeataFigielska-Zyla.github.io/simply_chocolate_project",
+  "homepage": "https://m3riadoc.github.io/m3riadoc.github.io",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /simply_chocolate_project/"
