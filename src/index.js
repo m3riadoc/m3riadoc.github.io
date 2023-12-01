@@ -5,3 +5,4 @@ import './script.js';
 import './modal-subscribe.js';
 import './modal-review.js';
 import './review-slider.js';
+import './review.js';
