@@ -1,9 +1,9 @@
+/* eslint-disable */
 var swiper2 = new Swiper2('.mySwiper2', {
   slidesPerView: 3,
   spaceBetween: 28,
   pagination: {
     el: '.swiper2-pagination',
-    clickable: true,
     clickable: true,
     dynamicBullets: false,
   },
@@ -19,3 +19,4 @@ var swiper2 = new Swiper2('.mySwiper2', {
     },
   },
 });
+/* eslint-enable */
