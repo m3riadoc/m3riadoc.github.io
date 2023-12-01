@@ -1,6 +1,8 @@
 <!-- Link Swiper's CSS -->
 <link rel="stylesheet" href="/src/partials/css/review-slider.css">
-        <link rel="stylesheet" href="/src/partials/css/reviews.css">         
+<link rel="stylesheet" href="/src/partials/css/reviews.css">        
+
+
 
 <section id="chocolate-is-loved" class="reviews">
   <h2><span class="orange-title">CHOCOLATE</span> IS LOVED</h2>
@@ -64,7 +66,38 @@
   <div class="reviews-button_position">
     <button class="reviews-button" type="button" data-modal-open-r>Leave a review</button>
   </div>
+  
 </section>
 
 <!-- Swiper JS -->
 
+<script > 
+/* eslint-disable */
+document.addEventListener('DOMContentLoaded', function () {
+const swiper2 = new Swiper2(".mySwiper2", {
+  slidesPerView: 3,
+  spaceBetween: 28,
+  grabCursor: 'true',
+  pagination: {
+    el: '.swiper2-pagination',
+    clickable: true,
+
+    dynamicBullets: false,
+  },
+  breakpoints: {
+    0: {
+      slidesPerView: 1,
+    },
+    769: {
+      slidesPerView: 2,
+    },
+    1201: {
+      slidesPerView: 3,
+    },
+  },
+});
+});
+/* eslint-enable */
+</script>
+
+<script src="review.js"></script>
