@@ -16,6 +16,11 @@
   <img src="https://github.com/m3riadoc/simply_chocolate_project/assets/129390881/58c557d7-4de4-4e44-98f4-44c14ec65b2f" alt="arrow-5217" width=50>
 </div>
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 
