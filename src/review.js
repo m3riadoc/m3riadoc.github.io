@@ -1,5 +1,3 @@
-
-
 var Swiper2 = (function () {
   'use strict';
   function e(e) {
