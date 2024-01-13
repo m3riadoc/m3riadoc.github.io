@@ -46,10 +46,4 @@ const swiper2 = new Swiper2(".mySwiper2", {
      },
   },
 });
-
-
-
-
-
-
 });
