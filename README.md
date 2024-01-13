@@ -17,7 +17,7 @@
 
 
 
-<h2 align="center">About The Project</h2>
+<h2 align="center">About The Project</h2>       https://m3riadoc.github.io/simply_chocolate_project/
 
 
 <div align="left">
