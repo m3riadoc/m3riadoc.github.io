@@ -1,10 +1,6 @@
 
 
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=GOIT+Project;Simply+Chocolate&center=true" alt="Typing SVG"/>
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79F18&random=false&width=435&center=true&lines=GOIT+Project;Simply+Chocolate)](https://git.io/typing-svg)
 
 <!-- ABOUT THE PROJECT -->
 
