@@ -51,6 +51,7 @@ Project main goals:
 
  - Working in <b>Node.js</b> Environment: The project leverages Node.js technology, enabling efficient utilization of the backend environment. The team focuses on optimizing application performance by implementing features and services based on Node.js.
 
+ - Fully <b>Media Responsive</b> Website: The website is meticulously designed to be fully media responsive, ensuring a seamless and engaging user experience across various devices and screen sizes. 
 
 
 ---
