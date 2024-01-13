@@ -6,6 +6,11 @@ document.addEventListener('DOMContentLoaded', function () {
       slidesPerView: 1,
       spaceBetween: 25,
       loop: true,
+      autoplay: {
+        delay: 3500, 
+        disableOnInteraction: false 
+    },
+    speed: 1500,
       centerSlide: 'true',
       fade: 'true',
       grabCursor: 'true',
@@ -32,6 +37,11 @@ document.addEventListener('DOMContentLoaded', function () {
       slidesPerView: 3,
       spaceBetween: 28,
       grabCursor: 'true',
+      autoplay: {
+        delay: 4500, 
+        disableOnInteraction: false 
+    },
+    speed: 1000,
       pagination: {
           el: '.swiper2-pagination',
           clickable: true,
