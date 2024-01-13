@@ -20,7 +20,7 @@
 <h2 align="center">About The Project</h2>
 
 
-<div align="right">
+<div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=GOIT+Project;Simply+Chocolate" alt="Typing SVG"/>
   </a>
@@ -43,7 +43,7 @@ Project main goals:
 
 ---
 
-### Built With
+<h2 align="center">Built With</h2>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,7 +56,7 @@ Project main goals:
 
 <!-- PARTICIPANTS -->
 
-## Participants
+<h2 align="center">Participants</h2>
 
 - Bartosz Kozielski 
 - Bartosz Bachara
