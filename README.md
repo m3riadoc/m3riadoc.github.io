@@ -3,8 +3,8 @@ https://m3riadoc.github.io/simply_chocolate_project/
 <!-- ABOUT THE PROJECT -->
 
 <div align= "center">
-<img src="/src/images/Zrzut ekranu 2024-01-13 145813.png"  height= "400" width="650" alt="Alt text" title="Optional title">
-<img src="/src/images/Zrzut ekranu 2024-01-13 145843.png"  width="650" alt="Alt text" title="Optional title">
+<img src="/src/images/Zrzut ekranu 2024-01-13 145813.png"  height= "400" width="660" alt="Alt text" title="Optional title">
+<img src="/src/images/Zrzut ekranu 2024-01-13 145843.png"  width="660" alt="Alt text" title="Optional title">
 </div>
 <div align= "center">
   <img src="/src/images/Zrzut ekranu 2024-01-13 145912.png" alt="Alt text" height="700px" style="margin-right: 10px;">
