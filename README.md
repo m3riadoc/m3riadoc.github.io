@@ -1,7 +1,6 @@
 
-<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79F18&random=false&width=435&lines=GOIT+Project;Simply+Chocolate)](https://git.io/typing-svg)
-</div>
 
 <!-- ABOUT THE PROJECT -->
 
