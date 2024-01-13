@@ -20,7 +20,7 @@
 <h2 align="center">About The Project</h2>
 
 
-<div align="center">
+<div align="right">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=GOIT+Project;Simply+Chocolate" alt="Typing SVG"/>
   </a>
