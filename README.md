@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg](https://m3riadoc.github.io/simply_chocolate_project">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79F18&random=false&size=35&width=435&lines=GOIT+Project;Simply+Chocolate&center=true" alt="Typing SVG"/>
   </a>
 </div>
