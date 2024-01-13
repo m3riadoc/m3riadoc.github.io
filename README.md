@@ -17,7 +17,8 @@
 
 
 
-## About The Project
+<h2 align="center">About The Project</h2>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
