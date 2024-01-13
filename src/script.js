@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded', function () {
 var swiper = new Swiper(".slide-content", {
     slidesPerView: 1,
     spaceBetween: 25,
@@ -21,4 +22,5 @@ var swiper = new Swiper(".slide-content", {
       slidesPerView: 4,
     },
   },
+});
 });
