@@ -222,7 +222,7 @@
 .swiper-button-lock {
   display: none;
 }
-.swiper-pagination {
+.swiper-pagination1 {
   
   transition: 0.3s opacity;
   transform: translate3d(0, 0, 0);
