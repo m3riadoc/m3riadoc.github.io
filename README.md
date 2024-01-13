@@ -6,10 +6,10 @@ https://m3riadoc.github.io/simply_chocolate_project/
 <img src="/src/images/Zrzut ekranu 2024-01-13 145813.png" alt="Alt text" title="Optional title">
 <img src="/src/images/Zrzut ekranu 2024-01-13 145843.png" alt="Alt text" title="Optional title">
 
-<p style="display: flex">
-  <img src="/src/images/Zrzut ekranu 2024-01-13 145912.png" alt="Alt text"  height="700px" style="display: inline-block; margin: 0 10px;">
-  <img src="/src/images/output-onlinegiftools.gif" alt="Przykładowy GIF"  height="700px" style="display: inline-block; margin: 0 10px;">
-</p>
+<div style="text-align: center;">
+  <img src="/src/images/Zrzut ekranu 2024-01-13 145912.png" alt="Alt text" height="700px" style="display: inline-block; margin: 0 10px;">
+  <img src="/src/images/output-onlinegiftools.gif" alt="Przykładowy GIF" height="700px" style="display: inline-block; margin: 0 10px;">
+</div>
 
 
 
