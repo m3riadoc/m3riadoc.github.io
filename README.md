@@ -19,7 +19,11 @@
 
 ## About The Project
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=GOIT+Project;Simply+Chocolate)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=GOIT+Project;Simply+Chocolate" alt="Typing SVG"/>
+  </a>
+</div>
 
 
 
