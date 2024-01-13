@@ -16,7 +16,7 @@ https://m3riadoc.github.io/simply_chocolate_project/
 
 
 
- <p> align= "center" ## About The Project </p>
+  ## About The Project
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=GOIT+Project;Simply+Chocolate)](https://git.io/typing-svg)
 
