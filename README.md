@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 
 <div align= "center">
-<a href="[URL_docelowy](https://m3riadoc.github.io/simply_chocolate_project/)">
+<a href="https://m3riadoc.github.io/simply_chocolate_project">
 <img src="/src/images/Zrzut ekranu 2024-01-13 145813.png"  height= "400" width="658" alt="Alt text" title="Optional title"> </a>
 <img src="/src/images/Zrzut ekranu 2024-01-13 145843.png"  width="658" alt="Alt text" title="Optional title">
 </div>
