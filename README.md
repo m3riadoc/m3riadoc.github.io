@@ -17,7 +17,7 @@
 </div>
 
 &nbsp;
-&nbsp;
+
 
 <div align= "center">
 <a href="https://m3riadoc.github.io/simply_chocolate_project">
