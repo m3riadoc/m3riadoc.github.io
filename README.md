@@ -9,7 +9,8 @@
 
 <!-- ABOUT THE PROJECT -->
 
-![arrow-down-5624450-4702152](https://github.com/m3riadoc/simply_chocolate_project/assets/129390881/2b6749c4-bc71-4d18-aaa8-a191c1b9627a)
+ ![arrow-5217](https://github.com/m3riadoc/simply_chocolate_project/assets/129390881/58c557d7-4de4-4e44-98f4-44c14ec65b2f)
+
 
 
 <div align= "center">
