@@ -9,6 +9,9 @@
 
 <!-- ABOUT THE PROJECT -->
 
+![arrow-down-5624450-4702152](https://github.com/m3riadoc/simply_chocolate_project/assets/129390881/2b6749c4-bc71-4d18-aaa8-a191c1b9627a)
+
+
 <div align= "center">
 <a href="https://m3riadoc.github.io/simply_chocolate_project">
 <img src="/src/images/Zrzut ekranu 2024-01-13 145813.png"  height= "400" width="658" alt="Alt text" title="Optional title"> </a>
