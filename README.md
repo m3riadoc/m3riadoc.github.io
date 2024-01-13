@@ -7,7 +7,7 @@ https://m3riadoc.github.io/simply_chocolate_project/
 <img src="/src/images/Zrzut ekranu 2024-01-13 145843.png" alt="Alt text" title="Optional title">
 <img src="/src/images/Zrzut ekranu 2024-01-13 145912.png" alt="Alt text" title="Optional title">
 
-![Uploading Film bez tytułu ‐ Wykonano za pomocą Clipchamp (1).gif…]()
+![Przykładowy GIF](/src/images/Film%20bez%20tytułu%20‐%20Wykonano%20za%20pomocą%20Clipchamp%20(1).gif)
 
 
 
