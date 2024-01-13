@@ -1,5 +1,5 @@
 /* eslint-disable */
-const swiper2 = new Swiper2(".mySwiper2", {
+const swiper2 = new Swiper(".mySwiper2", {
   slidesPerView: 3,
   spaceBetween: 28,
   grabCursor: 'true',
