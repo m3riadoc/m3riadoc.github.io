@@ -1,3 +1,5 @@
+
+
 document.addEventListener('DOMContentLoaded', function () {
   // Pierwsza instancja Swipera
   var swiper = new Swiper(".slide-content", {
