@@ -19,9 +19,6 @@
 &nbsp;
 &nbsp;
 
-
-
-
 <div align= "center">
 <a href="https://m3riadoc.github.io/simply_chocolate_project">
 <img src="/src/images/Zrzut ekranu 2024-01-13 145813.png"  height= "400" width="658" alt="Alt text" title="Optional title"> </a>
