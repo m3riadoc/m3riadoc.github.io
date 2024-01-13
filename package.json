@@ -4,8 +4,9 @@
   "description": "",
   "homepage": "https://m3riadoc.github.io/simply_chocolate_project",
   "scripts": {
+    "start": "parcel src/*.html",
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /simply_chocolate_project/"
+    "build": "parcel build src/*.html --dist-dir docs --public-url /simply_chocolate_project/"
   },
   "repository": {
     "type": "git",
