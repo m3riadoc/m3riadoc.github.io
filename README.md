@@ -1,6 +1,6 @@
 
 
-<div>
+<div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=GOIT+Project;Simply+Chocolate&center=true" alt="Typing SVG"/>
   </a>
