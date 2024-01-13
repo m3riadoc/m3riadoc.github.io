@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 
   // Druga instancja Swipera
-  var swiper2 = new Swiper3(".mySwiper2", {
+  var swiper2 = new window.Swiper3(".mySwiper2", {
       slidesPerView: 3,
       spaceBetween: 28,
       grabCursor: 'true',

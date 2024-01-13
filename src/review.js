@@ -1,6 +1,5 @@
 
-
-var Swiper3 = (function () {
+window.Swiper3 = (function () {
   'use strict';
   function e(e) {
     return null !== e && 'object' == typeof e && 'constructor' in e && e.constructor === Object;
