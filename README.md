@@ -1,5 +1,11 @@
 
 
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=GOIT+Project;Simply+Chocolate" alt="Typing SVG"/>
+  </a>
+</div>
+
 <!-- ABOUT THE PROJECT -->
 
 <div align= "center">
@@ -17,16 +23,7 @@
 
 
  
-<h2 align="center">About The Project</h2>      <p align="right"> https://m3riadoc.github.io/simply_chocolate_project/ </p>
-
-
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=GOIT+Project;Simply+Chocolate" alt="Typing SVG"/>
-  </a>
-</div>
-
-
+<h2 align="center">About The Project</h2>      
 
 
 Project main goals:
