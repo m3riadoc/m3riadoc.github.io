@@ -16,7 +16,7 @@ https://m3riadoc.github.io/simply_chocolate_project/
 
 
 
-  ## About The Project
+## About The Project
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=GOIT+Project;Simply+Chocolate)](https://git.io/typing-svg)
 
