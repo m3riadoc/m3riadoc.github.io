@@ -2,6 +2,12 @@
 https://m3riadoc.github.io/simply_chocolate_project/
 <!-- ABOUT THE PROJECT -->
 
+
+<img src="/src/images/Zrzut ekranu 2024-01-13 145813.png" alt="Alt text" title="Optional title">
+<img src="/src/images/Zrzut ekranu 2024-01-13 145843.png" alt="Alt text" title="Optional title">
+<img src="/src/images/Zrzut ekranu 2024-01-13 145912.png" alt="Alt text" title="Optional title">
+
+
 ## About The Project
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=GOIT+Project;Simply+Chocolate)](https://git.io/typing-svg)
