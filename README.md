@@ -6,9 +6,9 @@ https://m3riadoc.github.io/simply_chocolate_project/
 <img src="/src/images/Zrzut ekranu 2024-01-13 145813.png"  height= "400" width="660" alt="Alt text" title="Optional title">
 <img src="/src/images/Zrzut ekranu 2024-01-13 145843.png"  width="660" alt="Alt text" title="Optional title">
 </div>
-<div align= "center">
-  <img src="/src/images/Zrzut ekranu 2024-01-13 145912.png"  width="660"alt="Alt text" height="700px" style="margin-right: 10px;">
-  <img src="/src/images/output-onlinegiftools.gif"  width="660"alt="Przykładowy GIF" height="700px">
+<div align= "center" width="660">
+  <img src="/src/images/Zrzut ekranu 2024-01-13 145912.png"  alt="Alt text" height="700px" style="margin-right: 10px;">
+  <img src="/src/images/output-onlinegiftools.gif"  alt="Przykładowy GIF" height="700px">
 </div>
 
 
