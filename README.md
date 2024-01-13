@@ -6,6 +6,9 @@ https://m3riadoc.github.io/simply_chocolate_project/
 <img src="/src/images/Zrzut ekranu 2024-01-13 145813.png" alt="Alt text" title="Optional title">
 <img src="/src/images/Zrzut ekranu 2024-01-13 145843.png" alt="Alt text" title="Optional title">
 <img src="/src/images/Zrzut ekranu 2024-01-13 145912.png" alt="Alt text" title="Optional title">
+<img src="/src/images/Film bez tytułu ‐ Wykonano za pomocą Clipchamp.mp4"/>
+
+
 
 
 ## About The Project
